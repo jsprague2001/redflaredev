@@ -2,7 +2,7 @@
 
 *** Updated 01-08-18 ***
 
-D3.js is a JavaScript based library used for creating dynamic data displays.  RedFlare is designed for basic bar charts, pie charts.  Just the core code to get a decent looking chart into your HTML page
+D3.js is a JavaScript based library used for creating dynamic data displays.  RedFlare is designed to add basic bar charts, pie charts to existing content.  Just the core code to get a decent looking chart into your HTML page
 
 
 ## First Use Case ##
