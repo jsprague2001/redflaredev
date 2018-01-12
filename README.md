@@ -17,6 +17,7 @@ Stage 1:
 Basic HTML page, 2 CSS file, 2 JS file
 Spending information, formatting (redflare.css), graphs (redflare-graphs.js)
 Spending102
+roboto text
 
 Requirements:
 Data is easy to add in an external JSON file.
@@ -24,15 +25,15 @@ Handle adding too much data gracefully.
 
 Math for chart sizing
 
-Chart width	500
-Border width	10
-Bar padding	5
-Number of bars	14
-Calc - Total Border	20
-Calc - Max Image width	480
-Calc - Max bar width	34.29
-Calc - Bar width	29.29
-Calc - Resulting image width	475
-Calc - Resulting border	25
-Calc - Start chart location	12.50
+* Chart width	500
+* Border width	10
+* Bar padding	5
+* Number of bars	14
+* Calc - Total Border	20
+* Calc - Max Image width	480
+* Calc - Max bar width	34.29
+* Calc - Bar width	29.29
+* Calc - Resulting image width	475
+* Calc - Resulting border	25
+* Calc - Start chart location	12.50
 
