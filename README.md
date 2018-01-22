@@ -20,8 +20,16 @@ Spending102
 roboto text
 
 Requirements:
-Data is easy to add in an external JSON file.
-Handle adding too much data gracefully.
+* Data is easy to add.  First version will read only JSON.
+* Handle issues associated with adding too much data to a graph.
+
+Bar Chart Elements:
+* The div size
+** djdijnd
+* Y Scale location
+* X Scale location
+* Bar spacing
+* 
 
 Math for chart sizing
 
@@ -36,4 +44,8 @@ Math for chart sizing
 * Calc - Resulting image width	475
 * Calc - Resulting border	25
 * Calc - Start chart location	12.50
+
+
+
+
 
