@@ -25,7 +25,7 @@ Requirements:
 
 Bar Chart Elements:
 * The div size
- * djdijnd
+  * djdijnd
 * Y Scale location
 * X Scale location
 * Bar spacing
