@@ -24,9 +24,12 @@ Requirements:
 * Handle issues associated with adding too much data to a graph.
 
 Bar Chart Elements:
-* The div size
-  * djdijnd
+* The div size = canvas
+  * Pixels Wide, Pixels High
+* Margin
+  * chartWidth = divWidth - margin, chartHeight = divHeight - margin
 * Y Scale location
+  * Pixel Start, Pixels Long 
 * X Scale location
 * Bar spacing
 * 
