@@ -9,11 +9,9 @@ D3.js is a JavaScript based library used for creating dynamic data displays.  Re
 The first task is to develop the core framework:
 
 Requirements:
-A html page with div markups
-A css style sheet with coresponding sytles for each div
-Javascript using d3.  This script can be referenced mutiple times for similar charts.  For exampe if you need 2 bar charts call the same script and pass div parameters to it.
-
-
+* A html page with div markups
+* A css style sheet with coresponding sytles for each div
+* Javascript using d3.  This script can be referenced mutiple times for similar charts.  For exampe if you need 2 bar charts call the same script and pass div parameters to it.
 
 
 ## First Use Case ##
