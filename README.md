@@ -1,8 +1,19 @@
-# Redflare Concepts: D3js#
+# Redflare Concepts: D3js
 
 *** Updated 01-08-18 ***
 
 D3.js is a JavaScript based library used for creating dynamic data displays.  Redflare is designed to add basic bar charts, pie charts to existing content.  Just the core code to get a decent looking chart into your HTML page
+
+
+## Prototype ##
+The first task is to develop the core framework:
+
+Requirements:
+A html page with div markups
+A css style sheet with coresponding sytles for each div
+Javascript using d3.  This script can be referenced mutiple times for similar charts.  For exampe if you need 2 bar charts call the same script and pass div parameters to it.
+
+
 
 
 ## First Use Case ##
