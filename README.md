@@ -1,3 +1,5 @@
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/recharts/recharts/raw/master/LICENSE)
+
 # Redflare Charts
 A vizulization framework based on D3.js
 
@@ -25,7 +27,7 @@ What do you need to see results?
 That is it!
 Of course you can dig into the code and create any functionality you want!
 
-# Redflare Concepts: D3js
+## Redflare Concepts: D3js
 
 Updated 01-08-18
 
