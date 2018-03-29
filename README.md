@@ -1,6 +1,7 @@
+# Redflare Charts
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/recharts/recharts/raw/master/LICENSE)
 
-# Redflare Charts
+## Introduction
 A vizulization framework based on D3.js
 
 *Create nice charts without writing any code*
@@ -23,6 +24,10 @@ What do you need to see results?
   * Add your div ID
   * Point to your csv data file
   * Edit colors and text options
+  
+```sh
+$ npm run[-script] demo
+```
  
 That is it!
 Of course you can dig into the code and create any functionality you want!
