@@ -5,7 +5,7 @@ A vizulization framework based on D3.js
 
 Why would you use Redflare?
 
-* You want an easy way to add a chart to your web page
+* You want an easy way to add charts to your web page
 * You like D3.js graphs but find coding them time consuming
 * You want a professional looking chart
 
