@@ -1,14 +1,17 @@
-# redflare_bar_chart
-Bar charts based on D3.js
-Add simple charts without writing code
+# Redflare Charts
+A vizulization framework based on D3.js
+Add nice charts without writing any code
 
-Why would you use this?
+Why would you use Redflare?
 
-* You want a simple bar chart, and you want an easy way to add a chart to your web page
+* You want an easy way to add a chart to your web page
 * You like D3.js graphs but find coding them time consuming
 * You want a professional looking chart
 
-Of course you can dig into the code and create any functionality you want!
+Who would use Redflare?
+* You are a web professional, you know all about HTML and CSS
+* You know how to create directory folders
+* You know what a csv file is, and how to format basic data
 
 What do you need to see results?
 
@@ -19,6 +22,7 @@ What do you need to see results?
   * Edit colors and text options
  
 That is it!
+Of course you can dig into the code and create any functionality you want!
 
 # Redflare Concepts: D3js
 
