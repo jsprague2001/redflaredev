@@ -1,5 +1,5 @@
 # Redflare Charts
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/recharts/recharts/raw/master/LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
 
 ## Introduction
 A vizulization framework based on D3.js
@@ -66,32 +66,16 @@ Requirements:
 * Data is easy to add.  First version will read only JSON.
 * Handle issues associated with adding too much data to a graph.
 
-Bar Chart Elements:
-* The div size = canvas
-  * Pixels Wide, Pixels High
-* Margin
-  * chartWidth = divWidth - margin, chartHeight = divHeight - margin
-* Y Scale location
-  * Pixel Start, Pixels Long 
-* X Scale location
-* Bar spacing
-* 
+## Contribution
 
-Math for chart sizing
+We'd like :+1: to hear what you think we should build. 
 
-* Chart width	500
-* Border width	10
-* Bar padding	5
-* Number of bars	14
-* Calc - Total Border	20
-* Calc - Max Image width	480
-* Calc - Max bar width	34.29
-* Calc - Bar width	29.29
-* Calc - Resulting image width	475
-* Calc - Resulting border	25
-* Calc - Start chart location	12.50
+Please create an issue to write your usage or ideas.  We are looking for like-minded people who share the same idea about our framwork.
 
+## License
 
+[MIT](http://opensource.org/licenses/MIT)
 
+Copyright (c) 2018 RedArc Group, LLC
 
 
