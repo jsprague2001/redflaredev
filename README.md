@@ -1,6 +1,6 @@
 # Redflare Charts
 A vizulization framework based on D3.js
-Add nice charts without writing any code
+*Add nice charts without writing any code*
 
 Why would you use Redflare?
 
