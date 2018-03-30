@@ -25,6 +25,14 @@ A vizulization framework based on D3.js
 <div id="bar_hist_01" class="rfBarTime">
 ```
 
+* Add the Redflare script 
+
+```html
+<script id="rfBarHist_js" type="text/javascript" src="./js/redflare_bar_time.js"></script>
+```
+
+* Upload the Redflare scripts
+
 * Upload your csv data file
 
 ```txt
@@ -44,10 +52,8 @@ rowDate, rowValue
 }
 ```
 
-* Point to your csv data file
-* Edit colors and text options
-  
-
+* In the CSS file, point to your csv data file & edit colors and text options
+ 
  
 That is it!
 Of course you can dig into the code and create any functionality you want!
