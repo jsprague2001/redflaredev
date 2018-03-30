@@ -6,18 +6,18 @@ A vizulization framework based on D3.js
 
 *Create nice charts without writing any code*
 
-Why would you use Redflare?
+**Why would you use Redflare?**
 
 * You want an easy way to add charts to your web page
 * You like D3.js graphs but find coding them time consuming
 * You want a professional looking chart
 
-Who would use Redflare?
+**Who would use Redflare?**
 * You are a web professional, you know all about HTML and CSS
 * You know how to create directory folders
 * You know what a csv file is, and how to format basic data
 
-What do you need to see results?
+**What do you need to see results?**
 
 * Edit your html page and add a div ID and class
 * Edit the redflare.css file to:
@@ -25,8 +25,8 @@ What do you need to see results?
   * Point to your csv data file
   * Edit colors and text options
   
-```sh
-$ npm run[-script] demo
+```html
+<div id='yo' npm run[-script] demo>
 ```
  
 That is it!
