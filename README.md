@@ -8,9 +8,9 @@ A vizulization framework based on D3.js
 
 **Why would you use Redflare?**
 
-* You want an easy way to add charts to your web page
+* You want an easy way to add professional looking charts to your web page
 * You like D3.js graphs but find coding them time consuming
-* You want a professional looking charts that are ready to use
+* You don't want to learn yet another API or language
 
 **Who would use Redflare?**
 * You are a web designer and are comfortable with HTML and CSS
@@ -25,7 +25,16 @@ A vizulization framework based on D3.js
 <div id="bar_hist_01" class="rfBarTime">
 ```
 
-* Edit the redflare.css file:
+* Upload your csv data file
+
+```txt
+rowDate, rowValue
+01/01/2018, 4500
+01/02/2018, 3540
+
+```
+
+* Edit the redflare.css attributes file:
 
 ```css
 #bar_hist_01 {
