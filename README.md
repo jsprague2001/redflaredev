@@ -13,21 +13,32 @@ A vizulization framework based on D3.js
 * You want a professional looking chart
 
 **Who would use Redflare?**
-* You are a web professional, you know all about HTML and CSS
-* You know how to create directory folders
-* You know what a csv file is, and how to format basic data
+* You are a web designer and are comfortable with HTML and CSS
+* You have the ability to add documents to your web site
+* You know how to format basic data in a csv file.
 
 **What do you need to see results?**
 
-* Edit your html page and add a div ID and class
-* Edit the redflare.css file to:
-  * Add your div ID
-  * Point to your csv data file
-  * Edit colors and text options
-  
+* Edit your HTML page and add a div id and class
+
 ```html
-<div id='yo' npm run[-script] demo>
+<div id="bar_hist_01" class="rfBarTime">
 ```
+
+* Edit the redflare.css file:
+
+```css
+#bar_hist_01 {
+    float: left;
+    width: 900;
+    height: 350;
+}
+```
+
+* Point to your csv data file
+* Edit colors and text options
+  
+
  
 That is it!
 Of course you can dig into the code and create any functionality you want!
