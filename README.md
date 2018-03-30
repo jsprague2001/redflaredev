@@ -27,9 +27,12 @@ A vizulization framework based on D3.js
 <script id="rfBarHist_js" type="text/javascript" src="./js/redflare_bar_time.js"></script>
 ```
 
-* Upload the Redflare javascript and CSS files
+* Upload a few files:
+  * Redflare javascript files
+  * CSS files
+  * Data file(s)
 
-* Example of your csv data file
+* Example format for a simple csv data file
 
 ```txt
 rowDate, rowValue
