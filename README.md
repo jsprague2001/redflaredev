@@ -10,7 +10,7 @@ A vizulization framework based on D3.js
 
 * You want an easy way to add charts to your web page
 * You like D3.js graphs but find coding them time consuming
-* You want a professional looking chart
+* You want a professional looking chart that is ready to use
 
 **Who would use Redflare?**
 * You are a web designer and are comfortable with HTML and CSS
