@@ -10,7 +10,7 @@ A vizulization framework based on D3.js
 
 * You want an easy way to add charts to your web page
 * You like D3.js graphs but find coding them time consuming
-* You want a professional looking chart that is ready to use
+* You want a professional looking charts that are ready to use
 
 **Who would use Redflare?**
 * You are a web designer and are comfortable with HTML and CSS
@@ -43,14 +43,10 @@ A vizulization framework based on D3.js
 That is it!
 Of course you can dig into the code and create any functionality you want!
 
-## Redflare Concepts: D3js
-
-Updated 01-08-18
-
 D3.js is a JavaScript based library used for creating dynamic data displays.  Redflare is designed to add basic bar charts, pie charts to existing content.  Just the core code to get a decent looking chart into your HTML page
 
 
-## Prototype ##
+## Prototype
 The first task is to develop the core framework:
 
 Requirements:
@@ -88,5 +84,7 @@ Please create an issue to write your usage or ideas.  We are looking for like-mi
 [MIT](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2018 RedArc Group, LLC
+
+Updated 03-29-18
 
 
