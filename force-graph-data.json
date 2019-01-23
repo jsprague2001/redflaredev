@@ -135,7 +135,6 @@
     {"source": "Інтернет-листівки", "target": "Tower-2-15"},
     {"source": "подкаст", "target": "Tower-2-15"},
     {"source": "zztop", "target": "Tower-2-15"},
-    {"source": "zztop", "target": "Tower-2-15"},
     {"source": "Sound Stocks", "target": "Tower-2-15"},
 
     {"source": "March", "target": "Tower-3-15"},
@@ -149,9 +148,6 @@
     {"source": "Віртуальні тури", "target": "Tower-3-15"},
     {"source": "селфі", "target": "Tower-3-15"},
     {"source": "Coub'и", "target": "Tower-3-15"},
-
-
-
 
 	{"source": "Tower-6-13", "target": "Tower-4-15"},   
     {"source": "May", "target": "Tower-4-15"},
